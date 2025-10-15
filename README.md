@@ -1,3 +1,6 @@
+
+<img width="363" height="139" alt="logo" src="https://github.com/user-attachments/assets/ed153e06-c0b1-4d43-8984-fdd473fc6ca5" />
+
 # Algoritmos Evolutivos I — Trabajo Final
 **Tema:** El problema de la mochila para equipamiento de alpinismo resuelta con Algoritmo Genético (GA).
 
